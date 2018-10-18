@@ -1,0 +1,15 @@
+body {
+    background: violet;
+    color: yellow;
+}
+
+#firstParagraph {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.headers {
+
+    font-family: arial;
+    text-align: center;
+}
